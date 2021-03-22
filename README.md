@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my developer portfolio.
 - 🌱 I’m currently learning more about fullstack javascript and discrete maths.
 - - 👯 I’m looking to collaborate on web development projects.
-- 🤔 I’m looking for help with finding a remote junior software development job.
+- 🤔 I’m looking for help with C, Web developmwnt and finding a remote junior software development job.
 - 💬 Ask me about how to get started in web development.
 - 📫 How to reach me: twitter @habibu_razak
